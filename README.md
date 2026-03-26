@@ -1,4 +1,4 @@
 # demo1
 First Git Repo
 <br>
-Author-Rishabh
+Author-Rishabh Thacker(PDEU)
